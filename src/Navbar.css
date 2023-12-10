@@ -1,0 +1,13 @@
+
+.bg-container{
+    display: flex;
+    justify-content:flex-end;
+    align-items:flex-end;
+    flex-direction:row;
+    margin:8vh;
+    color:white;
+    background-color:blue;
+}
+p{
+    margin:12px;
+}
